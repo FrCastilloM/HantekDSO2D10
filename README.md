@@ -1,1 +1,1 @@
-Este código crea una interfaz para manejar el osciloscopio Hantek DSO2000 desde la PC conectado por USB. Permite configurar las escalas de los canales y del eje temporal, además de ver/guardar la señal en vivo. Dispone de una versión ejecutable.
+Este código crea una interfaz para manejar el osciloscopio Hantek DSO2000 desde la PC conectado por USB. Permite configurar las escalas de los canales y del eje temporal, además de ver/guardar la señal en vivo. 
